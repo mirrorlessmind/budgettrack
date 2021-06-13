@@ -15,7 +15,7 @@ Featuring: Javascript, MongoDb,Mongoose, Heroku, Node.js,JSON, ES6+,CSS, npm mod
 Heroku
 <a href="">BudgetTracker App</a>
 Video of app in Action
-<a href="" rel="nofollow">GetFit Videoworkout</a>
+<a href="" rel="nofollow">Budget Track Video</a>
 
 ## Table of Contents
 - [Use](#use)
