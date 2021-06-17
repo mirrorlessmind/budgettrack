@@ -6,16 +6,13 @@
 
 ## Let's Save Some Money
 
-![Demo Image](assets/workoutdemo.png?raw=true "Demo Image")
+![Demo Image](public/icons/demo2.jpg?raw=true "Demo Image")
 
 ## Languages & Technology Involved
 Featuring: Javascript, MongoDb,Mongoose, Heroku, Node.js,JSON, ES6+,CSS, npm modules.
 
 ##App Deployed
-Heroku
-<a href="">BudgetTracker App</a>
-Video of app in Action
-<a href="" rel="nofollow">Budget Track Video</a>
+Heroku Deployed <a href="https://budgettrack2.herokuapp.com">BudgetTracker App</a>
 
 ## Table of Contents
 - [Use](#use)
@@ -23,10 +20,10 @@ Video of app in Action
 - [License](#license)
 - [Questions](#questions)
 ## Usage
-Assist User with maintaing a budget while online or offline.
+Assist User with maintaing a budget while online or offline. Why offline as an option? It is great for when you are out of the country and have no access to the internet.
 
 ## Description of Development 🔥
-Budget Tracker. 
+Budget Tracker was first tested locally. Then connected to MongoDB and then deployed to Heroku to be used on the web.
 
 
 ## License 
