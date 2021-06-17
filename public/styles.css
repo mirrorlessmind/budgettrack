@@ -49,3 +49,30 @@ tr:nth-child(even) {
   width: 90%;
   margin: 0 auto;
 }
+.btn-primary {
+  background-color:#008a00;
+  padding-left: 30px;
+  padding-right: 30px;
+  border:none;
+  box-shadow: none; /* Removes blue halo */
+}
+
+.btn-primary:hover {
+  color:  #5D5D5D;
+  background-color: #F0F0F0;
+  border-color: #008a00;
+  cursor: pointer;
+}
+
+.btn-secondary {
+  background-color:#F0F0F0;
+  border-color: #F0F0F0;
+  color: #5D5D5D;
+}
+
+.btn-secondary:hover {
+  color: white;
+  background-color: #008a00;
+  border-color: #008a00;
+  cursor: pointer;
+}
