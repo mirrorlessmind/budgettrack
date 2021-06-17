@@ -2,6 +2,14 @@ body {
   font-size: 120%;
   font-family: Arial;
 }
+.jumbotron {
+  background-color: #dad4dd;
+  padding: 35px;
+  margin-top: 30px;
+}
+h2 {
+  color: #276827;
+}
 
 button, input {
   font-size: 100%;
